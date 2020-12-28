@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi this is My Tide HOME 👋
 
-<!--
-**linqinyun/linqinyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Description_✨ _special_ ✨
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### Tide
+
+>At present just a small programmer, the future can be expected
+
